@@ -1,6 +1,7 @@
 # Loan-Dataset
 The data used in this project is based  on loans disbursed from March to May 2021 by a lending institution. It contains information about the loans disbursed, repayment date, and demographic information about the customers obtaining these loans.
-Objective
+
+# Objective
 
 The objective of this analysis is to gain some insights about the customers who apply for these loans, their reasons and how these loans are actually performing by calculating the portfolio at risk using PAR7 AND PAR30 ratios.
 
@@ -12,7 +13,7 @@ Python (Numpy, Pandas and Matplotlib Libraries), Jupyter Notebook and Excel were
 
 The data was obtained from the lending institution directly and permission was given to use the data for the purpose of this project.
 
-#Data Cleaning
+# Data Cleaning
 
 Since the original data set was a csv file, a lot of data type conversion had to be done to make the data ready for exploration using the pandas library. All cleaning steps are detailed in the main project file.
 
